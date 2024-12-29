@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [latest technology with its real-time project implementation](latest technology with its real-time project implementation)
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, MERN, PostgreSQL,SQL, Python, Power BI, Ms- Excel, ETL**
+- 💬 Ask me about **Machine Learning, Artificial Intelligence,GenAI, LLM, Web3, MERN, PostgreSQL,SQL, Python, Power BI, Ms- Excel, ETL**
 
 - 📫 How to reach me **rishabhtripathi.9984@gmail.com**
 
-- ⚡ Fun fact **Trailblazer 🚀**
+- ⚡ Fun fact ;  **Trailblazer 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,36 +1,26 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ██████╗ ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗                        ║
-║  ██╔══██╗██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║                        ║
-║  ██████╔╝██║███████╗███████║███████║██████╔╝███████║                        ║
-║  ██╔══██╗██║╚════██║██╔══██║██╔══██║██╔══██╗██╔══██║                        ║
-║  ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║                        ║
-║  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝                        ║
-║                                                                              ║
-║  ████████╗██████╗ ██╗██████╗  █████╗ ████████╗██╗  ██╗██╗                   ║
-║     ██╔══╝██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║                   ║
-║     ██║   ██████╔╝██║██████╔╝███████║   ██║   ███████║██║                   ║
-║     ██║   ██╔══██╗██║██╔═══╝ ██╔══██║   ██║   ██╔══██║██║                   ║
-║     ██║   ██║  ██║██║██║     ██║  ██║   ██║   ██║  ██║██║                   ║
-║     ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝                   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<!-- ANIMATED WAVE TOP BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cfff,100:a855f7&height=200&section=header&text=RISHABH%20TRIPATHI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<!-- ANIMATED HEADER BADGE ROW -->
-![DESIGNATION](https://img.shields.io/badge/DESIGNATION-DATA_SCIENTIST_%7C_FULLSTACK_DEV-00ff88?style=flat-square&labelColor=0a0a0a&color=00ff88)
-![STATUS](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-ff6b35?style=flat-square&labelColor=0a0a0a)
-![CLEARANCE](https://img.shields.io/badge/CLEARANCE-TRAILBLAZER_🚀-a855f7?style=flat-square&labelColor=0a0a0a)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+agent+profile...;%3E+Loading+tech+stack...+%E2%9C%85;%3E+Building+things+that+matter+%F0%9F%9A%80;%3E+Exploring+React+Native+%26+GoLang+%F0%9F%94%A5;%3E+AI+%7C+ML+%7C+MERN+%7C+Web3+%7C+GenAI;%3E+Trailblazer.+Always+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+![ROLE](https://img.shields.io/badge/ROLE-DATA_SCIENTIST_%7C_FULLSTACK_DEV-00ff88?style=flat-square&labelColor=0d1117)
+![STATUS](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-ff6b35?style=flat-square&labelColor=0d1117)
+![BASE](https://img.shields.io/badge/BASE-INDIA_🇮🇳-a855f7?style=flat-square&labelColor=0d1117)
+![CLEARANCE](https://img.shields.io/badge/CLEARANCE-TRAILBLAZER_🚀-00cfff?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
 ```yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # AGENT PROFILE  ·  RISHABH TRIPATHI  ·  INDIA  🇮🇳
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 identity:
   name        : "Rishabh Tripathi"
@@ -46,14 +36,14 @@ current_ops:
   writing_on  : "Latest tech & real-time project implementations ✍️"
 
 weapons_of_choice:
-  ai_ml       : ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "MLflow"]
-  frontend    : ["React", "Next.js", "Three.js", "WebGL", "TailwindCSS"]
-  backend     : ["Node.js", "Django", "FastAPI", "Flask", "GoLang"]
-  data        : ["Python", "Pandas", "NumPy", "Power BI", "PostgreSQL"]
-  cloud       : ["AWS", "GCP", "Vercel", "Render"]
-  web3        : ["Web3.js", "Solidity-adjacent tools"]
+  ai_ml    : ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "MLflow"]
+  frontend : ["React", "Next.js", "Three.js", "WebGL", "TailwindCSS"]
+  backend  : ["Node.js", "Django", "FastAPI", "Flask", "GoLang"]
+  data     : ["Python", "Pandas", "NumPy", "Power BI", "PostgreSQL"]
+  cloud    : ["AWS", "GCP", "Vercel", "Render"]
+  web3     : ["Web3.js"]
 
-fun_fact: "Always the first to explore a new stack. Trailblazer is not a title—it's a way of life. 🚀"
+fun_fact: "Trailblazer is not a title — it's a way of life. 🚀"
 ```
 
 ---
@@ -95,7 +85,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ## `> TECH_ARSENAL --list-all`
 
 <details>
-<summary><b>🧠 AI / ML / Data</b> — click to expand</summary>
+<summary><b>🧠 AI / ML / Data Science</b> — click to expand</summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -140,6 +130,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </details>
 
@@ -155,7 +146,6 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </details>
 
@@ -166,6 +156,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -177,15 +168,26 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 ---
 
+## `> ACHIEVEMENT_UNLOCKED --trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/rish-23072005)
+
+</div>
+
+---
+
 ## `> PERFORMANCE_METRICS --live`
 
 <div align="center">
 
-| METRIC | SNAPSHOT |
-|:---|:---|
-| 📊 **GitHub Stats** | ![Stats](https://github-readme-stats.vercel.app/api?username=rish-23072005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github) |
-| 🔥 **Streak** | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rish-23072005&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88) |
-| 💬 **Top Languages** | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rish-23072005&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rish-23072005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=ffffff&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish-23072005&layout=donut&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rish-23072005&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00cfff&dates=888888" />
 
 </div>
 
@@ -195,7 +197,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rish-23072005&theme=chartreuse-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&hide_border=true)](https://github.com/rish-23072005)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rish-23072005&bg_color=0d1117&color=00ff88&line=00cfff&point=ff6b35&area=true&area_color=00ff8822&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/rish-23072005)
 
 </div>
 
@@ -207,8 +209,8 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-tripathi-403420210)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rishabhtripathi)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RISHABH05329095)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@rishabhtripathi5124)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RISHABH05329095)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rishabhtripathi5124)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tpsJ2Guq)
 
 </div>
@@ -228,14 +230,19 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   "Don't just consume technology. Create with it."   ║
-║                   — Rishabh Tripathi                 ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    " Don't just consume technology. Create with it. "        ║
+║                        — Rishabh Tripathi                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=rish-23072005&label=PROFILE%20SCANS&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=rish-23072005&label=PROFILE+SCANS&color=00ff88&style=flat-square)
 
 *Transmission ends. Stay curious. Keep building. 🚀*
 
 </div>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00cfff,100:00ff88&height=120&section=footer&animation=fadeIn" />

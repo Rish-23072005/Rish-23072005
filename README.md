@@ -172,7 +172,9 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/rish-23072005)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</p>
 
 </div>
 

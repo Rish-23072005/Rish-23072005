@@ -1,12 +1,10 @@
 <!-- ANIMATED WAVE TOP BANNER -->
-<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cfff,100:a855f7&height=200&section=header&text=RISHABH%20TRIPATHI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
-</div>
 
-<!-- TYPING ANIMATION - PLAYS FIRST (Duration: ~21000ms) -->
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+agent+profile...;%3E+Loading+tech+stack...+%E2%9C%85;%3E+Building+things+that+matter+%F0%9F%9A%80;%3E+Exploring+React+Native+%26+GoLang+%F0%9F%94%A5;%3E+AI+%7C+ML+%7C+MERN+%7C+Web3+%7C+GenAI;%3E+IBM+Certified+Data+Scientist+%F0%9F%8E%93;%3E+Trailblazer.+Always+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+agent+profile...;%3E+Loading+tech+stack...+%E2%9C%85;%3E+Building+things+that+matter+%F0%9F%9A%80;%3E+Exploring+React+Native+%26+GoLang+%F0%9F%94%A5;%3E+AI+%7C+ML+%7C+MERN+%7C+Web3+%7C+GenAI;%3E+Trailblazer.+Always+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -47,29 +45,6 @@ weapons_of_choice:
 
 fun_fact: "Trailblazer is not a title — it's a way of life. 🚀"
 ```
-
----
-
-## `> CERTIFICATIONS --verified`
-
-<div align="center">
-
-### 🎓 **IBM Certified Data Scientist**
-
-<img src="https://raw.githubusercontent.com/rish-23072005/rish-23072005/main/assets/python-for-data-science_badge.png" alt="IBM Python for Data Science" width="200"/>
-
-**Python for Data Science, AI & Development**  
-*IBM Cognitive Class*
-
----
-
-**Other Certifications & Achievements:**
-
-![IBM](https://img.shields.io/badge/IBM-Certified-0f62fe?style=for-the-badge&logo=ibm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data_Science-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AI](https://img.shields.io/badge/AI-Professional-00ff88?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-
-</div>
 
 ---
 
@@ -197,9 +172,24 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## `> CERTIFICATIONS --verified`
+
+<div align="center">
+
+### 🎓 IBM Certified Data Scientist
+
+<a href="https://www.credly.com/badges/your-badge-id"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="150px" alt="IBM Data Science"/></a>
+
+**Python for Data Science, AI & Development**  
+*IBM Cognitive Class*
+
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/your-badge-id)
 
 </div>
 

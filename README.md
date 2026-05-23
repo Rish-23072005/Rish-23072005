@@ -1,318 +1,265 @@
-<!-- ░░ SILENT PRELOAD ░░ -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" />
-</div>
+<!-- ANIMATED WAVE TOP BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cfff,100:a855f7&height=200&section=header&text=RISHABH%20TRIPATHI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=720&lines=%E2%96%BA+initializing+rishabh_tripathi_agent...;%E2%96%BA+loading+identity+module...+%5BOK%5D;%E2%96%BA+mounting+experience+context...+%5BOK%5D;%E2%96%BA+spinning+up+tool+executor...+%5BOK%5D;%E2%96%BA+agent+ready.+awaiting+query." alt="init" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+agent+profile...;%3E+Loading+tech+stack...+%E2%9C%85;%3E+Building+things+that+matter+%F0%9F%9A%80;%3E+Exploring+React+Native+%26+GoLang+%F0%9F%94%A5;%3E+AI+%7C+ML+%7C+MERN+%7C+Web3+%7C+GenAI;%3E+Trailblazer.+Always+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+![ROLE](https://img.shields.io/badge/ROLE-DATA_SCIENTIST_%7C_FULLSTACK_DEV-00ff88?style=flat-square&labelColor=0d1117)
+![STATUS](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-ff6b35?style=flat-square&labelColor=0d1117)
+![BASE](https://img.shields.io/badge/BASE-INDIA_🇮🇳-a855f7?style=flat-square&labelColor=0d1117)
+![CLEARANCE](https://img.shields.io/badge/CLEARANCE-TRAILBLAZER_🚀-00cfff?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   🤖  AGENT RUN  ──  rishabh_tripathi_agent  ──  session/2026.05            ║
-║   ─────────────────────────────────────────────────────────────────────     ║
-║   status        ●  ACTIVE  →  OneClarity.ai  ·  Pune, India 🇮🇳             ║
-║   objective     resolve: "who built this profile and what can they do?"     ║
-║   model         rishabh-v2026  |  context: 20 yrs  |  temp: 0.95 🔥         ║
-║   tools         [get_identity, get_experience, list_projects,               ║
-║                  get_capabilities, fetch_achievements, render_metrics]      ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```yaml
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# AGENT PROFILE  ·  RISHABH TRIPATHI  ·  INDIA  🇮🇳
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+identity:
+  name        : "Rishabh Tripathi"
+  alias       : "rish-23072005"
+  base        : "India 🇮🇳"
+  role        : ["Data Scientist", "Fullstack Developer", "ML Engineer"]
+  philosophy  : "Build things that matter. Ship things that scale."
+
+current_ops:
+  learning    : ["React Native 📱", "GoLang ⚡"]
+  collaborating: "Speech & Language Therapy Automation 🧠"
+  seeking_help: "Smart Traffic Light Management × Web3 × GenAI 🚦"
+  writing_on  : "Latest tech & real-time project implementations ✍️"
+
+weapons_of_choice:
+  ai_ml    : ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "MLflow"]
+  frontend : ["React", "Next.js", "Three.js", "WebGL", "TailwindCSS"]
+  backend  : ["Node.js", "Django", "FastAPI", "Flask", "GoLang"]
+  data     : ["Python", "Pandas", "NumPy", "Power BI", "PostgreSQL"]
+  cloud    : ["AWS", "GCP", "Vercel", "Render"]
+  web3     : ["Web3.js"]
+
+fun_fact: "Trailblazer is not a title — it's a way of life. 🚀"
 ```
 
-<br/>
+---
 
-<!-- ════════════════ STEP 1 ════════════════ -->
+## `> MISSION_LOG.sh`
 
-```python
-# ── [STEP 1 / 6]  ·  identity ────────────────────────────────────────────────
-thought = "Start with core identity. Load the profile module."
-action  = agent.tool_call("get_identity")
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 `CORE STACK`
+```
+AI / ML ████████████████ 95%
+React   ███████████████  90%
+Python  ███████████████  90%
+Node.js █████████████    80%
+GoLang  ████████         50%  ← learning
+RN      ███████          45%  ← learning
 ```
 
-```json
-{
-  "✅  tool"       : "get_identity",
-  "name"          : "Rishabh Tripathi",
-  "alias"         : "rish-23072005",
-  "role"          : ["AI Engineer", "Multi-Agent Systems", "Full-Stack Dev"],
-  "education"     : "B.Tech CS · Specialisation AI & ML  ·  GLA University  ·  2026",
-  "research"      : "IEEE Published — RL / DQN · Autonomous Fleet Management System",
-  "currently_at"  : "OneClarity.ai  ·  AIML Engineer  ·  Pune",
-  "exp_months"    : "18+  production AI engineering  ·  4 companies",
-  "philosophy"    : "Build things that matter. Ship things that scale. 🚀"
-}
+</td>
+<td width="50%">
+
+### 📡 `SIGNAL STRENGTH`
 ```
+Problem Solving  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
+System Design    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  8/10
+Research         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
+Shipping Fast    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  10/10
+Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> TECH_ARSENAL --list-all`
+
+<details>
+<summary><b>🧠 AI / ML / Data Science</b> — click to expand</summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>⚡ Languages</b> — click to expand</summary>
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Frontend / UI</b> — click to expand</summary>
+<br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 Backend / Infra</b> — click to expand</summary>
+<br>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud / DevOps / Tools</b> — click to expand</summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+---
+
+## `> ACHIEVEMENT_UNLOCKED --trophies`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-tripathi-403420210)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Rishabhtripathi)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/@RISHABH05329095)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rishabhtripathi5124)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tpsJ2Guq)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabhtripathi.9984@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rish-23072005&label=profile+reads&color=00ff88&style=flat-square)](https://github.com/rish-23072005)
+![trophy](https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════ STEP 2 ════════════════ -->
-
-```python
-# ── [STEP 2 / 6]  ·  experience ──────────────────────────────────────────────
-thought = "Four companies. 18+ months of production AI. Load the full log."
-action  = agent.tool_call("get_experience", filter="production_only")
-```
-
-```json
-{
-  "✅  tool" : "get_experience",
-  "entries" : [
-    {
-      "company"  : "OneClarity.ai",
-      "role"     : "AIML Engineer",
-      "location" : "Pune",
-      "period"   : "Dec 2025 – Present  🟢",
-      "shipped"  : [
-        "Adaptive learning platform — multi-agent architecture (LangGraph context-graph)",
-        "Sub-agents: content_delivery · assessment · sequencing — fully orchestrated",
-        "Shared context-caching layer — cut redundant LLM API calls across modules",
-        "Docker · AWS EC2/S3 · GitHub Actions CI/CD — zero-downtime rolling deploy"
-      ]
-    },
-    {
-      "company"  : "Aiventory",
-      "role"     : "AI Project Lead",
-      "location" : "Kolkata",
-      "period"   : "Sep 2025 – Nov 2025",
-      "shipped"  : [
-        "AI-powered inventory mgmt system — Django · PostgreSQL · Docker",
-        "LSTM time-series demand forecasting per SKU",
-        "K-means segmentation + collaborative filtering recommendation engine"
-      ]
-    },
-    {
-      "company"  : "Liquid Minds",
-      "role"     : "Machine Learning Engineer",
-      "location" : "Bangalore",
-      "period"   : "May 2025 – Aug 2025",
-      "shipped"  : [
-        "Production automation agents — n8n · LangChain · Zapier",
-        "HR candidate screening pipeline agent — eliminated manual decisioning",
-        "Marketing campaign + lead-gen workflow agent"
-      ]
-    },
-    {
-      "company"  : "Kode Vortex  (KV Tech)",
-      "role"     : "AI & Full-Stack Intern",
-      "location" : "Pune",
-      "period"   : "Aug 2024 – Apr 2025",
-      "shipped"  : [
-        "MERN + Three.js — 3D UI components and WebGL visualisations",
-        "AI exam proctoring portal — real-time body monitoring · SSL · live dashboard"
-      ]
-    }
-  ]
-}
-```
-
-<br/>
-
-<!-- ════════════════ STEP 3 ════════════════ -->
-
-```python
-# ── [STEP 3 / 6]  ·  projects ────────────────────────────────────────────────
-thought = "Four flagship builds. One IEEE paper. Surface the notable ones."
-action  = agent.tool_call("list_projects", sort_by="impact", limit=4)
-```
-
-```json
-{
-  "✅  tool"    : "list_projects",
-  "projects"  : [
-    {
-      "name"     : "🤖  HackEval — AI Hackathon Evaluation Agent",
-      "period"   : "Aug – Sep 2025",
-      "problem"  : "Hackathon judging is slow, inconsistent, and biased",
-      "solution" : "End-to-end AI judge: PPT analysis + GitHub plagiarism detection + auto-leaderboard",
-      "stack"    : ["LangChain", "AI Agents", "React", "AWS", "REST API"]
-    },
-    {
-      "name"     : "🎙️  SmaranAI — Voice Calendar Assistant",
-      "period"   : "May – Jun 2025",
-      "problem"  : "Scheduling requires opening apps and typing",
-      "solution" : "Speak naturally → Whisper STT → LangChain intent → CrewAI exec → Calendar synced",
-      "stack"    : ["OpenAI Whisper", "LangChain", "CrewAI", "Google Calendar API", "TTS"]
-    },
-    {
-      "name"     : "🚗  AutoFleet / Zyara — Autonomous Fleet Management  📄 IEEE",
-      "period"   : "Feb – Mar 2025",
-      "problem"  : "Fleet routing is computationally expensive and static",
-      "solution" : "DQN-based RL agent for real-time route optimisation + dynamic task allocation",
-      "stack"    : ["Reinforcement Learning", "DQN", "Python", "Simulation Engine"],
-      "published": "IEEE Conference — GLA University · 2025"
-    },
-    {
-      "name"     : "🧠  Adaptive Learning Platform  (prod @ OneClarity.ai)",
-      "period"   : "Dec 2025 – Present",
-      "problem"  : "One-size-fits-all e-learning doesn't adapt to the learner",
-      "solution" : "LangGraph multi-agent system: discrete agents per learning function, shared context graph",
-      "stack"    : ["LangGraph", "LangChain", "Docker", "AWS EC2/S3", "GitHub Actions"]
-    }
-  ]
-}
-```
-
-<br/>
-
-<!-- ════════════════ STEP 4 ════════════════ -->
-
-```python
-# ── [STEP 4 / 6]  ·  capabilities ────────────────────────────────────────────
-thought = "Build the full capability map. Group by domain, rank by depth."
-action  = agent.tool_call("get_capabilities", format="matrix")
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  CAPABILITY MATRIX  ·  rishabh_tripathi_agent                               ║
-╠════════════════════════════╦═══════════════════════════════════════════════╣
-║  DOMAIN                    ║  TOOLS  &  FRAMEWORKS                         ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  🤖  Agentic  AI  [████ █]  ║  LangChain · LangGraph · CrewAI · n8n        ║
-║                            ║  OpenAI · Whisper STT · HuggingFace · RAG     ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  🧠  ML  /  DL    [████ █]  ║  PyTorch · TensorFlow · Keras · scikit-learn ║
-║                            ║  MLflow · LSTM · DQN · K-means · Pandas/NumPy ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  🌐  Full-Stack   [████░░]  ║  React · Next.js · Three.js · WebGL           ║
-║                            ║  Node.js · Django · FastAPI · Flask · MERN    ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  ☁️  Cloud/DevOps  [███░░░]  ║  AWS (EC2 · S3) · Docker · GitHub Actions    ║
-║                            ║  GCP · Vercel · Nginx · CI/CD pipelines        ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  🗄️  Data  /  DB   [███░░░]  ║  PostgreSQL · MongoDB · MySQL · Power BI      ║
-║                            ║  Plotly · Matplotlib · SciPy                  ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  ⚡  Languages    [████░░]  ║  Python · JavaScript · Go (learning)          ║
-║                            ║  HTML/CSS · Bash · SQL                        ║
-╠════════════════════════════╬═══════════════════════════════════════════════╣
-║  🔗  Web3         [██░░░░]  ║  Web3.js  ·  Blockchain integrations          ║
-╚════════════════════════════╩═══════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- ════════════════ STEP 5 ════════════════ -->
-
-```python
-# ── [STEP 5 / 6]  ·  achievements ────────────────────────────────────────────
-thought = "Surface the credentials. IEEE, IBM, 4 companies, hackathons."
-action  = agent.tool_call("fetch_achievements")
-```
-
-```json
-{
-  "✅  tool"         : "fetch_achievements",
-  "achievements"   : [
-    {
-      "type"        : "📄  Research",
-      "title"       : "IEEE Published — RL-based Autonomous Fleet Management",
-      "detail"      : "DQN route optimisation · GLA University · 2025",
-      "status"      : "VERIFIED"
-    },
-    {
-      "type"        : "🎓  Certification",
-      "title"       : "IBM — Python for Data Science, AI & Development",
-      "issuer"      : "IBM Cognitive Class  ·  Verified on Credly",
-      "status"      : "VERIFIED"
-    },
-    {
-      "type"        : "🏆  Competitions",
-      "title"       : "Consistent Top-8 Hackathon Finisher",
-      "detail"      : "Multiple national-level events · HackEval creator",
-      "status"      : "ACTIVE"
-    },
-    {
-      "type"        : "🏢  Industry",
-      "title"       : "4 Companies · 18+ Months Production AI",
-      "detail"      : "OneClarity.ai  ·  Aiventory  ·  Liquid Minds  ·  KV Tech",
-      "status"      : "ACTIVE"
-    }
-  ]
-}
-```
-
-<br/>
-
-<!-- ════════════════ STEP 6 ════════════════ -->
-
-```python
-# ── [STEP 6 / 6]  ·  metrics ─────────────────────────────────────────────────
-thought = "Fetch the GitHub performance metrics. Render live."
-action  = agent.tool_call("render_metrics", username="rish-23072005")
-```
+## `> CERTIFICATIONS --verified`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rish-23072005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish-23072005&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
+### 🎓 IBM Certified Data Scientist
 
-<br/>
+<a href="https://www.credly.com/badges/your-badge-id"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="150px" alt="IBM Data Science"/></a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rish-23072005&theme=dark&hide_border=true&background=0d1117&stroke=1a2d4a&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00cfff&dates=555&sideNums=ffffff&currStreakNum=ffffff" />
+**Python for Data Science, AI & Development**  
+*IBM Cognitive Class*
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rish-23072005&bg_color=0d1117&color=00ff88&line=00cfff&point=ff6b35&area=true&area_color=00ff8815&hide_border=true&custom_title=COMMIT+GRAPH)](https://github.com/rish-23072005)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rish-23072005&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/your-badge-id)
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════ FINAL ANSWER ════════════════ -->
+## `> PERFORMANCE_METRICS --live`
 
-```python
-# ── FINAL ANSWER ──────────────────────────────────────────────────────────────
-thought  = "All tools executed. Context complete. Synthesising final answer."
-response = agent.generate_final_answer()
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  FINAL ANSWER                                                                ║
-║  ──────────────────────────────────────────────────────────────────────      ║
-║                                                                              ║
-║  Rishabh Tripathi is an AI Engineer with 18+ months of production            ║
-║  experience across 4 companies, specialising in multi-agent systems,         ║
-║  LLM infrastructure, and full-stack AI products.                             ║
-║                                                                              ║
-║  He designs systems where agents think, coordinate, and ship —               ║
-║  the same way this profile was just rendered.                                ║
-║                                                                              ║
-║  ──────────────────────────────────────────────────────────────────────      ║
-║  "Don't just consume technology. Create with it."                            ║
-║                                               — Rishabh Tripathi             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-```
-  run completed  ·  6 / 6 steps  ·  all tools resolved  ✅
-  rishabh_tripathi_agent — session/2026.05 — terminated cleanly.
-```
-
-<!-- FOOTER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=footer" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rish-23072005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=ffffff&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish-23072005&layout=donut&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rish-23072005&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00cfff&dates=888888" />
+
 </div>
+
+---
+
+## `> ACTIVITY_GRAPH --render`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rish-23072005&bg_color=0d1117&color=00ff88&line=00cfff&point=ff6b35&area=true&area_color=00ff8822&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/rish-23072005)
+
+</div>
+
+---
+
+## `> TRANSMISSION.connect --channels`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-tripathi-403420210)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rishabhtripathi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RISHABH05329095)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rishabhtripathi5124)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tpsJ2Guq)
+
+</div>
+
+---
+
+## `> QUOTE_OF_THE_CYCLE`
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    " Don't just consume technology. Create with it. "        ║
+║                        — Rishabh Tripathi                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=rish-23072005&label=PROFILE+SCANS&color=00ff88&style=flat-square)
+
+*Transmission ends. Stay curious. Keep building. 🚀*
+
+</div>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00cfff,100:00ff88&height=120&section=footer&animation=fadeIn" />

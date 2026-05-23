@@ -1,17 +1,17 @@
 <!-- ANIMATED WAVE TOP BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cfff,100:a855f7&height=200&section=header&text=RISHABH%20TRIPATHI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Fullstack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00cfff,100:a855f7&height=200&section=header&text=RISHABH%20TRIPATHI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20Fullstack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+agent+profile...;%3E+Loading+tech+stack...+%E2%9C%85;%3E+Building+things+that+matter+%F0%9F%9A%80;%3E+Exploring+React+Native+%26+GoLang+%F0%9F%94%A5;%3E+AI+%7C+ML+%7C+MERN+%7C+Web3+%7C+GenAI;%3E+Trailblazer.+Always+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+AIML+Engineer+%40+OneClarity.ai+%F0%9F%9A%80;%3E+Multi-Agent+Systems+%7C+LangGraph+%7C+CrewAI+%F0%9F%A4%96;%3E+IEEE+Published+Researcher+%F0%9F%93%84;%3E+B.Tech+AIML+%E2%80%94+GLA+University+%7C+2026+%F0%9F%8E%93;%3E+Building+things+that+matter.+Shipping+things+that+scale.+%F0%9F%94%A5;%3E+Trailblazer.+Always.+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-![ROLE](https://img.shields.io/badge/ROLE-DATA_SCIENTIST_%7C_FULLSTACK_DEV-00ff88?style=flat-square&labelColor=0d1117)
-![STATUS](https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-ff6b35?style=flat-square&labelColor=0d1117)
+![ROLE](https://img.shields.io/badge/ROLE-AI_ENGINEER_%7C_FULLSTACK_DEV-00ff88?style=flat-square&labelColor=0d1117)
+![CURRENT](https://img.shields.io/badge/CURRENTLY-@_ONECLARITY.AI-ff6b35?style=flat-square&labelColor=0d1117)
 ![BASE](https://img.shields.io/badge/BASE-INDIA_🇮🇳-a855f7?style=flat-square&labelColor=0d1117)
-![CLEARANCE](https://img.shields.io/badge/CLEARANCE-TRAILBLAZER_🚀-00cfff?style=flat-square&labelColor=0d1117)
+![RESEARCH](https://img.shields.io/badge/RESEARCH-IEEE_PUBLISHED-00cfff?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -26,25 +26,44 @@ identity:
   name        : "Rishabh Tripathi"
   alias       : "rish-23072005"
   base        : "India 🇮🇳"
-  role        : ["Data Scientist", "Fullstack Developer", "ML Engineer"]
+  role        : ["AI Engineer", "Multi-Agent Systems", "Fullstack Developer"]
+  education   : "B.Tech CS (AI & ML) — GLA University, Mathura · 2026"
   philosophy  : "Build things that matter. Ship things that scale."
 
 current_ops:
+  employer    : "OneClarity.ai — AIML Engineer (Pune) 🧠"
+  building    : "Personalised adaptive learning via multi-agent orchestration"
   learning    : ["React Native 📱", "GoLang ⚡"]
-  collaborating: "Speech & Language Therapy Automation 🧠"
-  seeking_help: "Smart Traffic Light Management × Web3 × GenAI 🚦"
-  writing_on  : "Latest tech & real-time project implementations ✍️"
+  collaborating: "Speech & Language Therapy Automation 🗣️"
+  researching : "Smart Traffic Light Management × Web3 × GenAI 🚦"
+  published   : "IEEE Paper — RL-based Autonomous Fleet Management 📄"
 
 weapons_of_choice:
-  ai_ml    : ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "MLflow"]
-  frontend : ["React", "Next.js", "Three.js", "WebGL", "TailwindCSS"]
-  backend  : ["Node.js", "Django", "FastAPI", "Flask", "GoLang"]
-  data     : ["Python", "Pandas", "NumPy", "Power BI", "PostgreSQL"]
-  cloud    : ["AWS", "GCP", "Vercel", "Render"]
-  web3     : ["Web3.js"]
+  agentic_ai   : ["LangChain", "LangGraph", "CrewAI", "n8n", "OpenAI"]
+  ai_ml        : ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "MLflow"]
+  frontend     : ["React", "Next.js", "Three.js", "WebGL", "TailwindCSS"]
+  backend      : ["Node.js", "Django", "FastAPI", "Flask"]
+  data         : ["Python", "Pandas", "NumPy", "Power BI", "PostgreSQL"]
+  cloud_devops : ["AWS", "GCP", "Docker", "GitHub Actions", "Vercel"]
+  web3         : ["Web3.js"]
 
 fun_fact: "Trailblazer is not a title — it's a way of life. 🚀"
 ```
+
+---
+
+## `> WORK_LOG --current`
+
+<div align="center">
+
+| Company | Role | Location | Period |
+|:---|:---|:---|:---|
+| 🟢 **OneClarity.ai** | AIML Engineer | Pune | Dec 2025 – Present |
+| ⚪ **Aiventory** | AI Project Lead | Kolkata | Sep 2025 – Nov 2025 |
+| ⚪ **Liquid Minds** | Machine Learning Engineer | Bangalore | May 2025 – Aug 2025 |
+| ⚪ **Kode Vortex (KV Tech)** | AI & Full Stack Intern | Pune | Aug 2024 – Apr 2025 |
+
+</div>
 
 ---
 
@@ -56,12 +75,14 @@ fun_fact: "Trailblazer is not a title — it's a way of life. 🚀"
 
 ### 🧬 `CORE STACK`
 ```
-AI / ML ████████████████ 95%
-React   ███████████████  90%
-Python  ███████████████  90%
-Node.js █████████████    80%
-GoLang  ████████         50%  ← learning
-RN      ███████          45%  ← learning
+Agentic AI  ████████████████ 95%
+AI / ML     ████████████████ 95%
+React       ███████████████  90%
+Python      ███████████████  90%
+Node.js     █████████████    80%
+Docker/AWS  ████████████     75%
+GoLang      ████████         50%  ← learning
+React Native███████          45%  ← learning
 ```
 
 </td>
@@ -69,11 +90,12 @@ RN      ███████          45%  ← learning
 
 ### 📡 `SIGNAL STRENGTH`
 ```
-Problem Solving  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
-System Design    ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  8/10
-Research         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
-Shipping Fast    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  10/10
-Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
+Multi-Agent Design  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
+Problem Solving     ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
+Research & Papers   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜  9/10
+System Design       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  8/10
+Shipping Fast       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10/10
+Coffee ☕           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ```
 
 </td>
@@ -82,7 +104,72 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 ---
 
+## `> NOTABLE_PROJECTS --pinned`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 HackEval — AI Hackathon Judge
+> *Aug 2025 – Sep 2025*
+
+End-to-end hackathon evaluation system with **PPT analysis**, **GitHub plagiarism detection**, and an automated judging dashboard with real-time leaderboards.
+
+`LangChain` `AI Agents` `AWS` `React` `REST API`
+
+</td>
+<td width="50%">
+
+### 🎙️ SmaranAI — Voice Calendar AI
+> *May 2025 – Jun 2025*
+
+Voice-driven scheduling assistant — speaks to it, it books your day. Powered by **Whisper STT**, **LangChain Agents**, and **CrewAI** with live Google Calendar sync.
+
+`OpenAI Whisper` `LangChain` `CrewAI` `Google Calendar API` `TTS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 AutoFleet / Zyara — Autonomous Fleet
+> *Feb 2025 – Mar 2025 · IEEE Published*
+
+**RL-based fleet management** (DQN) for real-time route optimization, dynamic task allocation, and traffic-aware delivery scheduling. Published at IEEE conference.
+
+`Reinforcement Learning` `DQN` `Python` `Simulation` `IEEE`
+
+</td>
+<td width="50%">
+
+### 🧠 Adaptive Learning Platform
+> *Dec 2025 – Present @ OneClarity.ai*
+
+Production multi-agent learning system — discrete sub-agents handle content delivery, assessment & sequencing via a **LangGraph context-graph** coordination layer. Deployed on AWS.
+
+`LangGraph` `LangChain` `Docker` `AWS` `GitHub Actions CI/CD`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## `> TECH_ARSENAL --list-all`
+
+<details>
+<summary><b>🤖 Agentic AI / GenAI Stack</b> — click to expand</summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00ff88?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</details>
 
 <details>
 <summary><b>🧠 AI / ML / Data Science</b> — click to expand</summary>
@@ -126,9 +213,6 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
@@ -143,6 +227,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -155,14 +240,14 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
@@ -182,14 +267,36 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 <div align="center">
 
-### 🎓 IBM Certified Data Scientist
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://www.credly.com/badges/your-badge-id"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="150px" alt="IBM Data Science"/></a>
+### 🎓 IBM Certified — Data Science
+<a href="https://www.credly.com/badges/your-badge-id">
+<img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="120px" alt="IBM Data Science"/>
+</a>
 
-**Python for Data Science, AI & Development**  
+**Python for Data Science, AI & Development**
 *IBM Cognitive Class*
 
-[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+[![Verify](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+
+</td>
+<td align="center" width="50%">
+
+### 📄 IEEE Published Researcher
+<br/>
+
+**RL-based Autonomous Fleet Management System**
+Route Optimization via Deep Q-Networks
+
+*GLA University · Computer Engineering & Applications*
+
+[![View Paper](https://img.shields.io/badge/View-IEEE_Paper-00cfff?style=for-the-badge&logo=ieee&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -229,6 +336,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RISHABH05329095)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rishabhtripathi5124)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tpsJ2Guq)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhtripathi.9984@gmail.com)
 
 </div>
 
@@ -249,8 +357,11 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║    " Don't just consume technology. Create with it. "        ║
+║  " Don't just consume technology. Create with it. "          ║
 ║                        — Rishabh Tripathi                    ║
+║                                                              ║
+║  18+ months in production AI · 4 companies · 1 IEEE paper   ║
+║  Multi-agent systems · LangGraph · CrewAI · AWS · Docker     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```

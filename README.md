@@ -185,7 +185,7 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 ### 🎓 IBM SkillsBuild Certified
 
 <a href="https://www.credly.com/badges/7974a2e1-608f-42e7-8e93-8ba4016e8c91/public_url">
-  <img src="assets/ibm_agentic_ai_badge.png" width="150px" alt="Make Agentic AI Work for You"/>
+  <img src="https://images.credly.com/size/340x340/images/9fa8d77b-7f18-4962-8343-9cfc7fb23067/Agentic_AI.png" width="150px" alt="Make Agentic AI Work for You"/>
 </a>
 
 **Make Agentic AI Work for You**  

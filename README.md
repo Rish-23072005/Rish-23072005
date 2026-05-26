@@ -184,7 +184,9 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 ### 🎓 IBM SkillsBuild Certified
 
-<a href="https://www.credly.com/badges/7974a2e1-608f-42e7-8e93-8ba4016e8c91/public_url"><img src="https://images.credly.com/images/124daa9f-13ce-43be-b3fd-aa45e3924245/linkedin_thumb_Make_20Agentic_20AI_20Work_20for_20You.png" width="150px" alt="Make Agentic AI Work for You"/></a>
+<a href="https://www.credly.com/badges/7974a2e1-608f-42e7-8e93-8ba4016e8c91/public_url">
+  <img src="assets/ibm_agentic_ai_badge.png" width="150px" alt="Make Agentic AI Work for You"/>
+</a>
 
 **Make Agentic AI Work for You**  
 *IBM SkillsBuild*

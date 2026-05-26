@@ -182,14 +182,14 @@ Coffee ☕        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  ∞/10
 
 <div align="center">
 
-### 🎓 IBM Certified Data Scientist
+### 🎓 IBM SkillsBuild Certified
 
-<a href="https://www.credly.com/badges/your-badge-id"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="150px" alt="IBM Data Science"/></a>
+<a href="https://www.credly.com/badges/7974a2e1-608f-42e7-8e93-8ba4016e8c91/public_url"><img src="https://images.credly.com/images/124daa9f-13ce-43be-b3fd-aa45e3924245/linkedin_thumb_Make_20Agentic_20AI_20Work_20for_20You.png" width="150px" alt="Make Agentic AI Work for You"/></a>
 
-**Python for Data Science, AI & Development**  
-*IBM Cognitive Class*
+**Make Agentic AI Work for You**  
+*IBM SkillsBuild*
 
-[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+[![Verify Certificate](https://img.shields.io/badge/Verify-Certificate-00ff88?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/7974a2e1-608f-42e7-8e93-8ba4016e8c91/public_url)
 
 </div>
 
